@@ -1,6 +1,6 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Matheus Caldana
-- 🌱 I’m currently learning ASP.NET Core API and MVC.
+- 🌱 I’m currently learning Ruby on Rails and Vue.js.
 ## Technology and tools:
 <div>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" height="40"/>
