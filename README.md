@@ -9,7 +9,7 @@
 - ⚡ Passionate about Technology, Books, and Music
 - 🌱 I’m currently learning <strong>Fundamentals of Software Architecture</strong>
 - 🎓 Studying <strong>Systems Analysis and Development</strong>
-- 🏦 Currently working as a <strong>DotNet Core Developer Intern</strong> at Cinemark Brasil
+- 🏦 Currently working as a <strong>DotNet Core Developer Intern</strong> at Cinemark Brazil
   
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
