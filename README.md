@@ -1,3 +1,4 @@
+<img src="./line.svg" width="100%" height="6px" />
 
 
 # Hi there! I'm Matheus👋 
