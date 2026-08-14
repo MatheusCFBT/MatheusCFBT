@@ -21,11 +21,4 @@
 ## Tools:
 [![My skill tools](https://skillicons.dev/icons?i=azure,aws,git,github,vscode,visualstudio,postman,ubuntu)](https://skillicons.dev)
 
-
-## Statistics:
-<div align="center">
-  <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MatheusCFBT&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
-  <img width="41%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatheusCFBT&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=120&section=footer"/>
